@@ -1,4 +1,4 @@
-# kafka-case
+# kafka
 
 Custom Kafka Producer and Consumer apps.
 
